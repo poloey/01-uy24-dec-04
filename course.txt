@@ -1,0 +1,14 @@
+# total hour: 60
+
+# 30h
+html
+css 
+js  
+# 60h
+php
+# mysql 20
+# laravel 30h (mvc)
+# wordpress 20h
+# project 80h 
+
+# softskills 60h
