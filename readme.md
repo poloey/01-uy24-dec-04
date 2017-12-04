@@ -1,4 +1,5 @@
 # Class 01
+# dec 6, Wednesday class will be off due to icst students exam
 ## Outline
 
 * Html, css, Js, Jquery - 30 hours
@@ -18,7 +19,8 @@
 * [git](https://git-scm.com/)
 
 # linux command (git bash in windows) 
----
+
+# dec 6, Wednesday class will be off due to icst students exam
 **command:** `cd` `touch` `mkdir` `cp` `mv` `rm` `pwd` `ls` `cat`    
 **flag:** flag always start with `-`. `r` - recursive, `a` - all, `f` - force     
 **Identifiers:** `*` - everything, `.` - current directory, `..` parent directory
