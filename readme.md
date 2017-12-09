@@ -1,4 +1,4 @@
-# Class 01
+# Class 01 -  Dec 04, 2017 - Monday
 ## Outline
 
 * Html, css, Js, Jquery - 30 hours
